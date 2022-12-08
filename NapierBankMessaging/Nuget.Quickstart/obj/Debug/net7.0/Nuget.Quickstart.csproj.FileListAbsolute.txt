@@ -1,0 +1,15 @@
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\bin\Debug\net7.0\Nuget.Quickstart.exe
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\bin\Debug\net7.0\Nuget.Quickstart.deps.json
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\bin\Debug\net7.0\Nuget.Quickstart.runtimeconfig.json
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\bin\Debug\net7.0\Nuget.Quickstart.dll
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\bin\Debug\net7.0\Nuget.Quickstart.pdb
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.csproj.AssemblyReference.cache
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.AssemblyInfoInputs.cache
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.AssemblyInfo.cs
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.csproj.CoreCompileInputs.cache
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.dll
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\refint\Nuget.Quickstart.dll
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.pdb
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\Nuget.Quickstart.genruntimeconfig.cache
+C:\Users\kamil\Desktop\NapierBankMessaging\NapierBankMessaging\Nuget.Quickstart\obj\Debug\net7.0\ref\Nuget.Quickstart.dll
